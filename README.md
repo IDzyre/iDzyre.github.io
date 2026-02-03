@@ -8,6 +8,6 @@ The second is [Ptimecard](https://github.com/IDzyre/Ptimecard), a timecard syste
 
 My most recent "self-guided" project is [DzyreRecipes](https://github.com/IDzyre/DzyreRecipes), a self-hosted API based recipe keeper. It is currently in the works, but eventually will have a web-app, and a mobile app.
 
-I have was a Google Summer of Code(GSOC) contributor on [Submitty](https://github.com/Submitty/Submitty) in the summer of 2023, and stayed on as a mentor, and maintainer. I have worked as a GSOC mentor every time Submitty has gotten accepted since then.
+I was a Google Summer of Code(GSOC) contributor on [Submitty](https://github.com/Submitty/Submitty) in the summer of 2023, and stayed on as a mentor, and maintainer. I have worked as a GSOC mentor every time Submitty has gotten accepted since then.
 
 I worked as the Student Systems Administrator for the Computer Science Department of Walla Walla University from December 2022 to June 2024, and from August 2025- June 2026, with a gap year for studying abroad. My main job was creating, and maintaining servers hosted on Proxmox using ansible scripts. I managed the servers used by computer science classes, and most of the math classes.
